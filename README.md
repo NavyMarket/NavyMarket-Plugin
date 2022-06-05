@@ -9,7 +9,7 @@ Faça agora sua loja!!! <a href="https://navymarket.com.br" target="_blank">Cria
 
 ### Download do Plugin
 
-Baixe a última versão compilada do plugin clicando [aqui](https://github.com/NavyMarket/DiscordJDA/raw/main/DiscordAPI.jar)
+Baixe a última versão compilada do plugin clicando [aqui](https://github.com/NavyMarket/NavyMarket-Plugin/raw/main/NavyMarket.jar)
 
 ### Documentação
 
